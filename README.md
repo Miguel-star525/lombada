@@ -1,2 +1,2 @@
 # lombada
-Sistema de livraria feite em Python e Django
+Sistema de livraria feita em Python e Django
